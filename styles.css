@@ -3,6 +3,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: #333;
   font-size: 30px;
+  background-color: black;
 }
 
 #container {
@@ -24,6 +25,11 @@ body {
   margin: 0;
   padding: 0.5em;
   font-weight: 400;
+}
+
+#cabecera #logo {
+  width: 20px;
+  vertical-align: middle;
 }
 
 #cabecera #tagline {
